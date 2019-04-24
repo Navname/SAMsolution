@@ -1,0 +1,8 @@
+1 max a 210.47433999999998 # 
+2 fedor famous 1122 # 
+3 artem	hotArty 300 #
+4 aqua man 500 #
+1 maxim aastahov 98.47433999999998 #  
+2 fedor1 emelyanenko 1122 # 
+3 artem13 hot 300 #
+4 patrik strong 500 #
